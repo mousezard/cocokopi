@@ -1,2 +1,2 @@
-# cocokopi
-Tinder clone about coffee shop.
+# Cocokopi
+Tinder clone about coffee shop. Using nuxt.
